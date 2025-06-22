@@ -1,4 +1,4 @@
-#Submarine Tracking via Fourier Filtering
+# Submarine Tracking via Fourier Filtering
 
 **Author:** Kutay Demiralay  
 **Department of Aeronautics and Astronautics, University of Washington, Seattle, WA**
