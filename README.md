@@ -1,4 +1,4 @@
-Submarine Tracking via Fourier Filtering
+#Submarine Tracking via Fourier Filtering
 
 **Author:** Kutay Demiralay  
 **Department of Aeronautics and Astronautics, University of Washington, Seattle, WA**
@@ -57,6 +57,4 @@ The submarine trajectory was successfully reconstructed over a 24-hour period by
 
 The full PDF report is available in the repository: [report1.pdf](./report1.pdf)
 
-## Acknowledgements
 
-Thanks to Po, Shavey, and Emoji for helpful discussions. Special thanks to Professor Eli for lectures, office hours, and code guidance.
